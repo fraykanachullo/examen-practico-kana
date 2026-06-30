@@ -1,0 +1,6 @@
+bytes_sent
+bytes_recv
+duration_sec
+packets
+bytes_ratio
+bytes_per_sec
