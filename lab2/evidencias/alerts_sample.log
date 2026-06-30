@@ -1,0 +1,20 @@
+Jun 30 20:48:26 wazuh-sien sudo[21496]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+Jun 30 20:48:26 wazuh-sien sudo[21500]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+Jun 30 20:49:12 wazuh-sien sudo[21519]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+Jun 30 20:49:12 wazuh-sien sudo[21515]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:01:22 wazuh-sien sudo[21596]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:01:32 wazuh-sien sudo[21600]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:08:03 wazuh-sien sudo[21635]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:08:03 wazuh-sien sudo[21639]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:11:12 wazuh-sien sudo[21666]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 45.33.32.156 /var/ossec/logs/alerts/alerts.log
+Jun 30 21:11:11 wazuh-sien sudo[21662]:     fray : TTY=pts/0 ; PWD=/home/fray ; USER=root ; COMMAND=/usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
+command: /usr/bin/grep 5763 /var/ossec/logs/alerts/alerts.log
